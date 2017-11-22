@@ -67,7 +67,7 @@ export SUB_ARCH=arm64;
 
 # G920F
 if [ "$TARGET" = "G920F" ] ; then
-	export KERNEL_CONFIG="custom_defconfig";
+	export KERNEL_CONFIG="houda_zeroflte_02_defconfig";
 fi;
 
 # G925T
